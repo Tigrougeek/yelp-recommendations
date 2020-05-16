@@ -1,0 +1,16 @@
+#mapId {
+  height: 200px;
+}
+
+.MuiCardContent-root {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+.MuiCardHeader-root, .MuiCardActions-root, .MuiIconButton-root {
+  padding: 0 !important;
+}
+
+* {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
